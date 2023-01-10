@@ -1,0 +1,1 @@
+let squareOfNum = require("./exportFunctionWithParameter");
